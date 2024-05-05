@@ -1,8 +1,8 @@
-# Repositorio de José Luis Lucanas
+# Repositorio GITHUB de José Luis Lucanas
 
 ![Imagen de Portada](blue.jpg)
 
-## Actualmente soy estudiante de DAW em la universidad Alonso X
+## Actualmente soy estudiante de DAW en la Universidad Alonso X
 
 ## Caracteristicas
 
