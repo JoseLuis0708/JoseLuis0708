@@ -1,6 +1,6 @@
 # Titulo del proyecto
 
-[Imagen de Portada](blue.jpg)
+![Imagen de Portada](blue.jpg)
 
 ## Descripción
 
