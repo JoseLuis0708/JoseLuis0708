@@ -1,5 +1,4 @@
-# Titulo del proyecto 
-Repositorio GITHUB de José Luis Lucanas
+# Repositorio GITHUB de José Luis Lucanas
 
 ![Imagen de Portada](unnamed.gif)
 
